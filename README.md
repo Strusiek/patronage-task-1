@@ -11,4 +11,6 @@ OS:
 Ubuntu 12.04.2 LTS precise
 
 Using the project:
-Project is basically empty atm, thus there are no running instructions so far.
+- To run Java version go into src/java and type "javac HelloWorld.java", and then type "java HelloWorld"
+- To run JavaScript version go into src/js and open the file "HelloWorld.html" in your browser
+- To run Python version go into src/python and type python "HelloWorld.py"
