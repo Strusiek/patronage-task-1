@@ -12,4 +12,3 @@ Ubuntu 12.04.2 LTS precise
 
 Using the project:
 Project is basically empty atm, thus there are no running instructions so far.
-
